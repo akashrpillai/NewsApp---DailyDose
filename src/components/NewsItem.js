@@ -9,6 +9,7 @@ const NewsItem =(props)=> {
                 <div className="card" >
                     <div style={{
                         display: "flex",
+                        flexDirection:'column',
                         position: "absolute",
                         right: "0"
                     }}>
